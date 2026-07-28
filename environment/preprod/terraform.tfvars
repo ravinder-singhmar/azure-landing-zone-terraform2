@@ -7,6 +7,7 @@ rg_details = {
     name     = "spoke-rg"
     location = "South India"
   }
+  
 }
 
 pip_details = {
