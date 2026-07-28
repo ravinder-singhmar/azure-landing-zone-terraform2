@@ -1,6 +1,11 @@
 variable "rg_details" {
   type = map(any)
 }
+
+variable "rg_details2" {
+  type = map(any)
+}
+
 variable "vnet_details" {
   type = map(any)
 }
